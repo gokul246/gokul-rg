@@ -9,7 +9,7 @@ for(i=0;i<a;i++)
 {
 if(i%2!=0)
 {
-printf("%d");
+printf("%d",i);
 }
 }
 getch();
